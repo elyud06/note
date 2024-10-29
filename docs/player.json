@@ -20,12 +20,12 @@
   },
  
    
-  {"name":"Serena Williams",
-   "age":41 ,
-   "sports":"Tennis",
-   "position":"player",
-   "team":{"name" :"N/A",
-           "city" :"N/A"}
+  {"name":"Serena Williams",//string
+   "age":41 ,//integer
+   "sports":"Tennis",//string
+   "position":"player",//string
+   "team":{"name" :"N/A",//string
+           "city" :"N/A"}//string
   },
    
   {"name":"Tom Brady",
